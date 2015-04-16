@@ -1,9 +1,0 @@
-language: rust
-notifications:
-  email:
-    recipients:
-      - filipe@codinghighway.com
-  irc:
-    channels:
-      - "irc.mozilla.org#rust-config"
-      - "irc.mindforge.org#codinghighway"
